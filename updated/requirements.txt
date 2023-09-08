@@ -1,3 +1,4 @@
 pandas
 snowflake-connector-python
 streamlit
+matplotlib
